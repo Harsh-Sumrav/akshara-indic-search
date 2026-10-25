@@ -1,0 +1,16 @@
+dist/
+node_modules/
+*.log
+.site-workflow/
+
+
+.env
+.env.*
+!.env.example
+.openai/
+.sites-runtime/
+coverage/
+*.pem
+*.key
+.DS_Store
+Thumbs.db
