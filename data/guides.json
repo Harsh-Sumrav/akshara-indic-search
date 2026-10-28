@@ -1,0 +1,146 @@
+[
+  {
+    "id": "imd-forecast-hi",
+    "source": "India Meteorological Department",
+    "url": "https://mausam.imd.gov.in/",
+    "category": "Weather",
+    "lang": "hi",
+    "title": "कल का मौसम और वर्षा का पूर्वानुमान",
+    "text": "भारत मौसम विज्ञान विभाग के पूर्वानुमान से शहर का मौसम, बारिश की संभावना और जिले की चेतावनी देखें।"
+  },
+  {
+    "id": "imd-forecast-en",
+    "source": "India Meteorological Department",
+    "url": "https://mausam.imd.gov.in/",
+    "category": "Weather",
+    "lang": "en",
+    "title": "Tomorrow’s weather and rainfall forecast",
+    "text": "Find city weather forecasts, rainfall outlooks and district warnings through the India Meteorological Department."
+  },
+  {
+    "id": "isro-chandrayaan-hi",
+    "source": "ISRO",
+    "url": "https://www.isro.gov.in/Chandrayaan3.html",
+    "category": "Space",
+    "lang": "hi",
+    "title": "चंद्रयान-3 का चंद्र अभियान",
+    "text": "इसरो के चंद्रयान-3 अभियान में विक्रम लैंडर और प्रज्ञान रोवर ने चंद्रमा की सतह का अध्ययन किया।"
+  },
+  {
+    "id": "isro-chandrayaan-en",
+    "source": "ISRO",
+    "url": "https://www.isro.gov.in/Chandrayaan3.html",
+    "category": "Space",
+    "lang": "en",
+    "title": "Chandrayaan-3 lunar mission",
+    "text": "Explore ISRO’s mission timeline, Vikram lander observations and Pragyan rover measurements on the Moon."
+  },
+  {
+    "id": "scholarships-hi",
+    "source": "National Scholarship Portal",
+    "url": "https://scholarships.gov.in/",
+    "category": "Education",
+    "lang": "hi",
+    "title": "छात्रवृत्ति के लिए आवेदन",
+    "text": "राष्ट्रीय छात्रवृत्ति पोर्टल पर विद्यार्थी योजनाओं, आवेदन और नवीनीकरण की जानकारी देख सकते हैं।"
+  },
+  {
+    "id": "scholarships-en",
+    "source": "National Scholarship Portal",
+    "url": "https://scholarships.gov.in/",
+    "category": "Education",
+    "lang": "en",
+    "title": "Student scholarship applications",
+    "text": "The National Scholarship Portal brings together student scholarship schemes, application services and renewal information."
+  },
+  {
+    "id": "rail-enquiry-hi",
+    "source": "Indian Railways",
+    "url": "https://enquiry.indianrail.gov.in/",
+    "category": "Transport",
+    "lang": "hi",
+    "title": "रेल समय सारणी और ट्रेन की स्थिति",
+    "text": "भारतीय रेल की पूछताछ सेवा से ट्रेन का समय, स्टेशन और रेलगाड़ी की स्थिति जानें।"
+  },
+  {
+    "id": "rail-enquiry-en",
+    "source": "Indian Railways",
+    "url": "https://enquiry.indianrail.gov.in/",
+    "category": "Transport",
+    "lang": "en",
+    "title": "Train times and running status",
+    "text": "Use the National Train Enquiry System to look up train schedules, station information and running status."
+  },
+  {
+    "id": "pm-kisan-hi",
+    "source": "PM-KISAN",
+    "url": "https://pmkisan.gov.in/",
+    "category": "Agriculture",
+    "lang": "hi",
+    "title": "पीएम किसान सम्मान निधि",
+    "text": "किसानों के लिए प्रधानमंत्री किसान सम्मान निधि योजना के पोर्टल पर पंजीकरण और लाभार्थी की स्थिति देखें।"
+  },
+  {
+    "id": "pm-kisan-en",
+    "source": "PM-KISAN",
+    "url": "https://pmkisan.gov.in/",
+    "category": "Agriculture",
+    "lang": "en",
+    "title": "PM-KISAN farmer income support",
+    "text": "The farmer services portal provides registration and beneficiary status for the Pradhan Mantri Kisan Samman Nidhi scheme."
+  },
+  {
+    "id": "uidai-aadhaar-hi",
+    "source": "UIDAI",
+    "url": "https://uidai.gov.in/",
+    "category": "Identity",
+    "lang": "hi",
+    "title": "आधार कार्ड और पता अपडेट",
+    "text": "यूआईडीएआई पर आधार कार्ड, नामांकन केंद्र और पता बदलने से जुड़ी सेवाओं की जानकारी मिलती है।"
+  },
+  {
+    "id": "uidai-aadhaar-en",
+    "source": "UIDAI",
+    "url": "https://uidai.gov.in/",
+    "category": "Identity",
+    "lang": "en",
+    "title": "Aadhaar card and address updates",
+    "text": "Find UIDAI services for Aadhaar enrolment centres, identity records and address updates."
+  },
+  {
+    "id": "payments-hi",
+    "source": "NPCI",
+    "url": "https://www.npci.org.in/what-we-do/upi/product-overview",
+    "category": "Payments",
+    "lang": "hi",
+    "title": "यूपीआई से डिजिटल भुगतान",
+    "text": "यूनिफाइड पेमेंट्स इंटरफेस से बैंक खातों के बीच मोबाइल भुगतान किया जा सकता है।"
+  },
+  {
+    "id": "payments-en",
+    "source": "NPCI",
+    "url": "https://www.npci.org.in/what-we-do/upi/product-overview",
+    "category": "Payments",
+    "lang": "en",
+    "title": "UPI digital payments",
+    "text": "Read the NPCI introduction to the Unified Payments Interface for instant bank-to-bank mobile payments."
+  },
+  {
+    "id": "heritage-hi",
+    "source": "UNESCO World Heritage Centre",
+    "url": "https://whc.unesco.org/en/statesparties/in",
+    "category": "Heritage",
+    "lang": "hi",
+    "title": "भारत के विश्व धरोहर स्थल",
+    "text": "यूनेस्को की सूची में भारत के सांस्कृतिक और प्राकृतिक धरोहर स्थलों की जानकारी देखें।"
+  },
+  {
+    "id": "heritage-en",
+    "source": "UNESCO World Heritage Centre",
+    "url": "https://whc.unesco.org/en/statesparties/in",
+    "category": "Heritage",
+    "lang": "en",
+    "title": "World Heritage sites in India",
+    "text": "Explore India’s cultural and natural properties in the UNESCO World Heritage List."
+  }
+]
