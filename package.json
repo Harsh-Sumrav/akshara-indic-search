@@ -1,0 +1,16 @@
+{
+  "name": "akshara-indic-search-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs",
+    "test": "node --test",
+    "benchmark": "node scripts/benchmark.mjs",
+    "build": "node scripts/build.mjs"
+  }
+}
