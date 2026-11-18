@@ -1,0 +1,10 @@
+import {execFileSync} from 'node:child_process';
+import {writeFile,rename} from 'node:fs/promises';
+import {fileURLToPath} from 'node:url';
+const dest=new URL('../data/report.json',import.meta.url),tmp=new URL('../data/report.'+process.pid+'.tmp',import.meta.url);
+const output=execFileSync(process.execPath,[fileURLToPath(new URL('./benchmark.mjs',import.meta.url)),'--json'],{encoding:'utf8'});
+const report=JSON.parse(output);
+if(!report.rows?.length)throw Error('Empty report');
+await writeFile(tmp,JSON.stringify(report,null,2)+'\n');
+await rename(tmp,dest);
+console.log('Saved '+report.rows.length+' configurations and slices for '+report.documents+' documents.');
